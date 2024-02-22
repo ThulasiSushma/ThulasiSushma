@@ -5,7 +5,9 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/thulasi-sushma-480464222/
 
 **Connect with me:**
-https://www.linkedin.com/in/thulasi-sushma-480464222/
+
+<a href="https://www.linkedin.com/in/thulasi-sushma-480464222/" target="_blank"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="100" height="100" alt="LinkedIn"></a>
+
 
 **Languages and Tools:**
 
